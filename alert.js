@@ -1,1 +1,1 @@
-<body onload="alert("lol")">
+<script type="text/javascript">alert("lol")</script>
