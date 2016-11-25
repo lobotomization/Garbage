@@ -1,1 +1,1 @@
-alert("lol");
+<body onload="alert("lol")">
